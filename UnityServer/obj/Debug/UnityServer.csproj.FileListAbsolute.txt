@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\UnityServer\UnityServer\bin\Debug\UnityServer.exe.config
+D:\Visual Studio Projects\UnityServer\UnityServer\bin\Debug\UnityServer.exe
+D:\Visual Studio Projects\UnityServer\UnityServer\bin\Debug\UnityServer.pdb
+D:\Visual Studio Projects\UnityServer\UnityServer\bin\Debug\KaymakNetwork.dll
+D:\Visual Studio Projects\UnityServer\UnityServer\obj\Debug\UnityServer.csprojAssemblyReference.cache
+D:\Visual Studio Projects\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UnityServer\UnityServer\obj\Debug\UnityServer.csproj.CopyComplete
+D:\Visual Studio Projects\UnityServer\UnityServer\obj\Debug\UnityServer.exe
+D:\Visual Studio Projects\UnityServer\UnityServer\obj\Debug\UnityServer.pdb
